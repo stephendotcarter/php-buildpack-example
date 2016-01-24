@@ -2,7 +2,7 @@
 Example of different PHP versions and webservers running on Cloud Foundry
 
 ### Introduction
-This project demonstrates how PHP applications running on Clound Foundry can be configured to run different PHP version and web servers.
+This project demonstrates how PHP applications running on Clound Foundry can be configured to run different PHP versions and web servers.
 
 
 ### Setup
