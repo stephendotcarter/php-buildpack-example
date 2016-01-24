@@ -1,0 +1,5 @@
+{
+	"WEB_SERVER": "httpd",
+	"PHP_EXTENSIONS": [],
+	"PHP_VERSION": "5.5.30"
+}

@@ -1,0 +1,7 @@
+---
+applications:
+- name: php-buildpack-example
+  memory: 128M
+  instances: 1
+  host: php-buildpack-example
+  buildpack: php_buildpack
